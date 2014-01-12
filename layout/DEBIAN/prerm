@@ -1,0 +1,3 @@
+#!/bin/sh
+launchctl unload -w /Library/LaunchDaemons/net.joedj.daemontest.plist
+exit 0

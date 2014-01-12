@@ -1,0 +1,9 @@
+Package: net.joedj.daemontest
+Name: daemontest
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), bash, firmware (< 7.0) | com.rpetrich.rocketbootstrap
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: On-demand launchd daemon
+Maintainer: joedj
+Author: joedj
+Section: Tweaks
